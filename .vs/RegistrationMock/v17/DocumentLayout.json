@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\application\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\application\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\domain\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\domain\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\application\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\application\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|c:\\users\\ahmed.abdelhakeem\\desktop\\registrationmock\\registrationmock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A443FFE-963D-4D90-83D1-4941BBE10C59}|RegistrationMock\\RegistrationMock.csproj|solutionrelative:registrationmock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 54,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\API\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "RegistrationMock\\API\\Controllers\\UserController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:24:35.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Domain\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\Domain\\Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Domain\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "RegistrationMock\\Domain\\Enums\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:15:02.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "RegistrationMock\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:13:54.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Infrastructure\\Persistence\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\Infrastructure\\Persistence\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Infrastructure\\Persistence\\ApplicationDBContext.cs",
+              "RelativeToolTip": "RegistrationMock\\Infrastructure\\Persistence\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:11:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RegistrationMock\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:09:25.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "RegistrationMock\\Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:07:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Application\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\Application\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Application\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeToolTip": "RegistrationMock\\Application\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:05:19.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Application\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\Application\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\Application\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "RegistrationMock\\Application\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:00:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\API\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrationMock\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\API\\Program.cs",
+              "RelativeToolTip": "RegistrationMock\\API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:48:51.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\appsettings.json",
+              "RelativeDocumentMoniker": "RegistrationMock\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed.abdelhakeem\\Desktop\\RegistrationMock\\RegistrationMock\\appsettings.json",
+              "RelativeToolTip": "RegistrationMock\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T15:48:46.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
